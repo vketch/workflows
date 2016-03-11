@@ -1,7 +1,7 @@
 {
     'name': 'send_transactions',
     'short_description': 'Send MLS listings to Brokermint',
-    'full_description': '''For every listing of yours in <a href=\'/apps/garden_state_mls\'>Garden State MLS</a> a new transaction is created in <a href=\'/apps/brokermint\'>Brokermint</a>, and appears as pending under “Incoming transactions” in the transaction list.
+    'full_description': '''For every listing of yours in <a href=\'/apps/garden_state_mls\'>Garden State MLS</a>, a new transaction is created in <a href=\'/apps/brokermint\'>Brokermint</a> and appears as pending under “Incoming transactions” in the transaction list.
 Listings will be processed starting from the date specified in workflow configuration.''',
     'about': 'Send MLS listings to Brokermint',
     'app_proxy': 'cn_mls_gardenstate',
