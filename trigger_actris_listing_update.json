@@ -1,0 +1,11 @@
+{ "trigger":  "listings_updated",
+  "trigger_id": "1111",
+  "user_id": "ReaLiving",
+  "user":    "ReaLiving",
+  "password": "aB@2!bA6",
+  "last_start_date": "2016-03-10T19:30:03.283Z",
+  "conditions" : {
+      "start_date": "09/03/2016"
+  }
+}
+

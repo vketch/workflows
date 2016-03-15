@@ -1,0 +1,12 @@
+{ "trigger":  "listings_updated",
+  "trigger_id": "1111",
+  "user_id": "APINATION",
+  "user":    "APINATION",
+  "password": "BAF62A1B-2B95-4F76-A8AA-02C82A0395C3",
+  "user_agent": "Apination/1.0",
+  "user_agent_password": "wLH4WWuTyN@6uDywzQcK",
+  "last_start_date": "2015-01-25T19:30:03.283Z",
+  "conditions" : {
+      "start_date": "01/27/2015"
+  }
+}
